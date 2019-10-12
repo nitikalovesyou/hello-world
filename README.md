@@ -1,3 +1,3 @@
 # hello-world
-Yeah it is just another repository.
+Yeah it is just another repository
 
